@@ -1,0 +1,2 @@
+# decky-shortcut
+Decky plugin
